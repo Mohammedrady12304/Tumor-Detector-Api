@@ -1,0 +1,6 @@
+@Tumor_Detector_HostAddress = http://localhost:5069
+
+GET {{Tumor_Detector_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
